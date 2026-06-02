@@ -1,0 +1,73 @@
+
+Apr 15, 2026 10:04:24.15 NEW SESSION
+Apr 15, 2026 10:04:24.23 Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 15, 2026 10:04:29.99 [8700:23668:0415/100429.990:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+Apr 15, 2026 10:04:53.22 [8700:23668:0415/100453.224:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+Apr 15, 2026 10:05:45.30 [8700:23668:0415/100545.308:ERROR:google_apis\gcm\engine\connection_factory_impl.cc:434] Failed to connect to MCS endpoint with error -105
+Apr 15, 2026 10:05:50.84 [8700:23668:0415/100550.841:ERROR:google_apis\gcm\engine\connection_factory_impl.cc:434] Failed to connect to MCS endpoint with error -105
+Apr 15, 2026 10:06:04.72 [8700:23668:0415/100604.720:ERROR:google_apis\gcm\engine\connection_factory_impl.cc:434] Failed to connect to MCS endpoint with error -105
+Apr 15, 2026 10:06:04.72 [8700:23668:0415/100604.721:ERROR:google_apis\gcm\engine\registration_request.cc:275] Registration URL fetching failed.
+Apr 15, 2026 10:06:07.57 [8700:18972:0415/100607.578:ERROR:components\device_event_log\device_event_log_impl.cc:202] [10:06:07.578] USB: usb_service_win.cc:108 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Apr 15, 2026 10:06:17.78 [8700:23668:0415/100617.787:ERROR:google_apis\gcm\engine\connection_factory_impl.cc:434] Failed to connect to MCS endpoint with error -105
+Apr 15, 2026 10:06:22.34 [8700:23668:0415/100622.341:ERROR:google_apis\gcm\engine\connection_factory_impl.cc:434] Failed to connect to MCS endpoint with error -105
+Apr 15, 2026 10:06:28.81 [8700:23668:0415/100628.817:ERROR:google_apis\gcm\engine\connection_factory_impl.cc:434] Failed to connect to MCS endpoint with error -105
+Apr 15, 2026 10:06:32.35 [8700:23668:0415/100632.356:ERROR:google_apis\gcm\engine\connection_factory_impl.cc:434] Failed to connect to MCS endpoint with error -105
+Apr 15, 2026 10:07:14.99 [8700:23668:0415/100714.992:ERROR:google_apis\gcm\engine\connection_factory_impl.cc:434] Failed to connect to MCS endpoint with error -105
+Apr 15, 2026 10:07:52.32 [8700:23668:0415/100752.321:ERROR:google_apis\gcm\engine\registration_request.cc:275] Registration URL fetching failed.
+
+Apr 15, 2026 11:20:33.43 NEW SESSION
+Apr 15, 2026 11:20:33.56 Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 15, 2026 11:20:38.03 [13212:13172:0415/112038.033:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+Apr 15, 2026 11:21:08.23 [13212:13172:0415/112108.237:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+Apr 15, 2026 11:21:54.14 [13212:13172:0415/112154.147:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+Apr 15, 2026 11:23:38.14 [13212:13172:0415/112338.143:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+Apr 15, 2026 11:25:58.89 Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 15, 2026 11:26:02.39 [16364:2336:0415/112602.389:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+Apr 15, 2026 11:26:23.17 [16364:2336:0415/112623.174:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+Apr 15, 2026 11:27:17.07 [16364:2336:0415/112717.074:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+Apr 15, 2026 11:28:41.08 [16364:2336:0415/112841.086:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+Apr 15, 2026 11:31:49.51 [16364:2336:0415/113149.519:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+Apr 15, 2026 11:37:55.88 [16364:2336:0415/113755.882:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+Apr 15, 2026 11:56:26.19 [16364:12240:0415/115626.198:ERROR:components\device_event_log\device_event_log_impl.cc:202] [11:56:26.195] USB: usb_service_win.cc:108 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Apr 15, 2026 11:56:26.20 [16364:12240:0415/115626.204:ERROR:components\device_event_log\device_event_log_impl.cc:202] [11:56:26.203] USB: usb_service_win.cc:108 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+
+Apr 15, 2026 13:38:11.77 NEW SESSION
+Apr 15, 2026 13:38:12.90 Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 15, 2026 13:38:18.19 [25492:21876:0415/133818.199:ERROR:google_apis\gcm\engine\connection_factory_impl.cc:434] Failed to connect to MCS endpoint with error -105
+Apr 15, 2026 13:38:18.19 [25492:21876:0415/133818.199:ERROR:google_apis\gcm\engine\registration_request.cc:275] Registration URL fetching failed.
+Apr 15, 2026 13:38:41.41 [25492:21876:0415/133841.417:ERROR:google_apis\gcm\engine\registration_request.cc:275] Registration URL fetching failed.
+Apr 15, 2026 13:38:45.99 [25492:21876:0415/133845.990:ERROR:google_apis\gcm\engine\connection_factory_impl.cc:434] Failed to connect to MCS endpoint with error -105
+Apr 15, 2026 13:38:48.88 [25492:21876:0415/133848.886:ERROR:google_apis\gcm\engine\connection_factory_impl.cc:434] Failed to connect to MCS endpoint with error -105
+Apr 15, 2026 13:38:53.82 [25492:21876:0415/133853.825:ERROR:google_apis\gcm\engine\connection_factory_impl.cc:434] Failed to connect to MCS endpoint with error -105
+Apr 15, 2026 13:38:57.33 [25492:21876:0415/133857.329:ERROR:google_apis\gcm\engine\connection_factory_impl.cc:434] Failed to connect to MCS endpoint with error -105
+Apr 15, 2026 13:39:11.86 [25492:21876:0415/133911.868:ERROR:google_apis\gcm\engine\connection_factory_impl.cc:434] Failed to connect to MCS endpoint with error -105
+Apr 15, 2026 13:39:31.43 [25492:21876:0415/133931.432:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+Apr 15, 2026 13:40:53.30 [25492:21876:0415/134053.299:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+
+Apr 19, 2026 17:23:46.21 NEW SESSION
+Apr 19, 2026 17:23:46.56 Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 19, 2026 17:24:02.66 [26748:748:0419/172402.658:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+Apr 19, 2026 17:24:32.61 [26748:748:0419/172432.614:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+Apr 19, 2026 17:25:30.57 [26748:748:0419/172530.573:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+Apr 19, 2026 17:26:56.91 [26748:748:0419/172656.912:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+
+May 20, 2026 10:19:13.70 NEW SESSION
+May 20, 2026 10:19:13.71 Created TensorFlow Lite XNNPACK delegate for CPU.
+May 20, 2026 10:19:17.34 [3200:2448:0520/101917.348:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+
+May 20, 2026 14:26:55.06 NEW SESSION
+May 20, 2026 14:26:55.10 Created TensorFlow Lite XNNPACK delegate for CPU.
+May 20, 2026 14:27:15.21 [8324:3188:0520/142715.217:ERROR:google_apis\gcm\engine\connection_factory_impl.cc:435] Failed to connect to MCS endpoint with error -105
+May 20, 2026 14:27:30.36 [8324:3188:0520/142730.366:ERROR:google_apis\gcm\engine\registration_request.cc:275] Registration URL fetching failed.
+May 20, 2026 14:27:56.48 [8324:3188:0520/142756.481:ERROR:google_apis\gcm\engine\connection_factory_impl.cc:435] Failed to connect to MCS endpoint with error -105
+May 20, 2026 14:28:31.01 [8324:3188:0520/142831.010:ERROR:google_apis\gcm\engine\registration_request.cc:275] Registration URL fetching failed.
+May 20, 2026 14:29:19.44 [8324:3188:0520/142919.444:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+May 20, 2026 14:31:09.13 [8324:3188:0520/143109.132:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+May 20, 2026 14:31:37.33 [8324:3188:0520/143137.338:ERROR:google_apis\gcm\engine\connection_factory_impl.cc:484] ConnectionHandler failed with net error: -2
+May 20, 2026 14:31:37.34 [8324:3188:0520/143137.342:ERROR:google_apis\gcm\engine\connection_factory_impl.cc:435] Failed to connect to MCS endpoint with error -109
+May 20, 2026 14:34:35.48 [8324:3188:0520/143435.481:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+May 20, 2026 14:40:50.74 [8324:3188:0520/144050.741:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+May 20, 2026 14:53:59.27 [8324:3188:0520/145359.275:ERROR:google_apis\gcm\engine\connection_factory_impl.cc:484] ConnectionHandler failed with net error: -2
+May 20, 2026 14:53:59.31 [8324:3188:0520/145359.315:ERROR:google_apis\gcm\engine\connection_factory_impl.cc:435] Failed to connect to MCS endpoint with error -105
+May 20, 2026 14:54:09.26 [8324:19412:0520/145409.263:ERROR:components\device_event_log\device_event_log_impl.cc:202] [14:54:09.259] USB: usb_service_win.cc:108 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+May 20, 2026 14:54:41.19 [8324:19412:0520/145441.196:ERROR:components\device_event_log\device_event_log_impl.cc:202] [14:54:41.196] USB: usb_service_win.cc:108 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
