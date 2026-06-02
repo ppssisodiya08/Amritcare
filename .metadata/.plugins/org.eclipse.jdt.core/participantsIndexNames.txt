@@ -1,3 +1,0 @@
-INDEX VERSION 1.134
-D:\AmritCare_Project\AC\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1702708193.index
-\Amritcare\src\main\java

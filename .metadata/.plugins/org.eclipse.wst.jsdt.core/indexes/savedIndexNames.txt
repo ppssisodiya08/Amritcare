@@ -1,7 +1,0 @@
-INDEX VERSION 1.4+D:\AmritCare_Project\AC\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
-3965047575.index
-1520345013.index
-2814487251.index
-386430717.index
-4035931432.index
-3668705880.index
