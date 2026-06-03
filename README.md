@@ -377,7 +377,7 @@ Browser (HTML + CSS + JS + JSP)
 
 The complete project report is available in the repository:
 ```
-AmritCare_Project_Report.docx
+AmritCare_Project_Report.pdf
 ```
 
 ---
