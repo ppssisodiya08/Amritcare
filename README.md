@@ -12,7 +12,7 @@
 
 > A centralized full-stack web application connecting **hospitals**, **patients**, and **ambulance services** across a city with real-time resource tracking, instant booking, and voice assistant support.
 
-**[📋 Project Report](#-project-report) • [🚀 Live Demo](#-screenshots) • [⚙️ Setup](#️-installation--setup) • [📁 Structure](#-project-structure)**
+**[📋 Project Report](#-project-report) • [⚙️ Setup](#️-installation--setup) • [📁 Structure](#-project-structure)**
 
 </div>
 
@@ -360,11 +360,12 @@ Browser (HTML + CSS + JS + JSP)
 
 | Name | Enrollment No. | Role |
 |------|---------------|------|
-| [Student 1 Name] | [Enrollment No.] | Full Stack Development |
-| [Student 2 Name] | [Enrollment No.] | Database & Backend |
-| [Student 3 Name] | [Enrollment No.] | Frontend & UI Design |
+| Pranav Pratap Singh Sisodiya | 0801CA251099 | Full Stack Development |
+| Uttam Carpenter | 0801CA251143 |  Backend |
+| Nitish Kumar | 0801CA251091 | Database  |
+| Ramdev Thpak | 0801CA251 | Frontend & UI Design |
 
-**Project Guide:** [Guide Name], [Designation]  
+**Project Guide:** Ms. Shweta Gupta, Asst. Professor 
 **Department:** Computer Technology and Application  
 **Institute:** SGSITS, Indore  
 **University:** RGPV, Bhopal  
