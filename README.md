@@ -363,7 +363,7 @@ Browser (HTML + CSS + JS + JSP)
 | Pranav Pratap Singh Sisodiya | 0801CA251099 | Full Stack Development |
 | Uttam Carpenter | 0801CA251143 |  Backend |
 | Nitish Kumar | 0801CA251091 | Database  |
-| Ramdev Thpak | 0801CA251 | Frontend & UI Design |
+| Ramdev Thpak | 0801CA251113 | Frontend & UI Design |
 
 **Project Guide:** Ms. Shweta Gupta, Asst. Professor 
 **Department:** Computer Technology and Application  
